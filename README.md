@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Leonardo Mendes 👋.
+
+I'm a Luso-Brazilian frontend developer who is constantly striving for self-improvement professionally and personally.
 
 <!--
 **Choconaldo/Choconaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

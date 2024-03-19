@@ -21,5 +21,5 @@ I'm a Luso-Brazilian frontend developer who is constantly striving for self-impr
 ![git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Choconaldo&theme=shadow_green&show_icons=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choconaldo&theme=shadow_green&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Choconaldo&theme=transparent&show_icons=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choconaldo&theme=transparent&show_icons=true)

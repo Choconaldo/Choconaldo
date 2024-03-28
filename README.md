@@ -9,7 +9,7 @@ I'm a Luso-Brazilian frontend developer who is constantly striving for self-impr
 ###
 - 🔭 I’m currently working on developing my frontend skills
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on any frontend prohect
+- 👯 I’m looking to collaborate on any frontend project
 - 💬 Ask me about HTML, CSS or JavaScript
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: audioafrfb@gmail.com

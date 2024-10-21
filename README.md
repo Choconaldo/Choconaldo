@@ -19,6 +19,9 @@ I'm a Luso-Brazilian frontend developer who is constantly striving for self-impr
 ![css3](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
 ![git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![vite](https://img.shields.io/badge/vite-9575CD?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Choconaldo&theme=transparent&show_icons=true)](https://git.io/streak-stats)

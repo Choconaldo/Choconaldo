@@ -8,7 +8,7 @@ I'm a Luso-Brazilian frontend developer who is constantly striving for self-impr
 ![portifolio](https://img.shields.io/badge/portifolio-purple?style=for-the-badge)
 ###
 - 🔭 I’m currently working on developing my frontend skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular and React
 - 👯 I’m looking to collaborate on any frontend project
 - 💬 Ask me about HTML, CSS or JavaScript
 - 😄 Pronouns: He/Him
